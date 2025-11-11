@@ -25,7 +25,7 @@ export default function Home() {
             <div className="flex justify-center animate-fadeInUp animation-delay-100">
               <div className="relative w-40 h-40 rounded-full overflow-hidden border-4 border-[#0f3460] shadow-lg shadow-[#0f3460]/50 hover:scale-105 transition-transform duration-300">
                 <Image 
-                  src="/profile.jpg" 
+                  src="/profile2.jpg" 
                   alt="João Silva"
                   fill
                   className="object-cover"
